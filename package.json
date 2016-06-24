@@ -1,7 +1,7 @@
 {
-  "name": "jsftp",
+  "name": "jsftp-modi",
   "id": "jsftp",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "A sane FTP client implementation for NodeJS",
   "keywords": [
     "ftp",
@@ -12,13 +12,13 @@
     "async"
   ],
   "author": "Sergi Mansilla <sergi.mansilla@gmail.com> (http://sergimansilla.com)",
-  "homepage": "https://github.com/sergi/jsftp",
+  "homepage": "https://github.com/yahao87/jsftp-modi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sergi/jsftp.git"
+    "url": "https://github.com/yahao87/jsftp-modi"
   },
   "bugs": {
-    "url": "https://github.com/sergi/jsftp/issues"
+    "url": "https://github.com/yahao87/jsftp-modi/issues"
   },
   "dependencies": {
     "debug": "^2.2.0",
